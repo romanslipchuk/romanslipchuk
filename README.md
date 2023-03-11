@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @romanslipchuk
-- 👀 I’m interested in DS, ML, Data Analytics
-- 🌱 I’m currently learning Python, C, SQL, Tableau
-- 💞️ I’m looking to collaborate on DS projects and Data Analytics projects
-- 📫 How to reach me in Telegram @Roma_Slipchuk or email me roman.slipchuk@gmail.com
+- 👋 Hi there, I'm @romanslipchuk!
+- 👀 I'm passionate about all things data-related, from data science to machine learning and analytics.
+- 🌱 Currently, I'm honing my skills in Python, C, SQL, and Tableau.
+- 💞️ I'm always looking for opportunities to collaborate on exciting data analytics and DS projects.
+- 📫 You can reach me on Telegram @Roma_Slipchuk or email me at roman.slipchuk@gmail.com. Let's connect and explore the world of data together!
 
 <!---
 romanslipchuk/romanslipchuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
